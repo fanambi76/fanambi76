@@ -1,6 +1,6 @@
 # Salut, c'est fanambi ! 👋
 
-**Étudiant en DevOps | Automatisation & Infrastructure as Code | Sécurité des systèmes**
+**Étudiant en DevOps | Automatisation & Infrastructure as Code | Sécurité des systèmes & réseaux**
 
 ![Profile views](https://komarev.com/ghpvc/?username=fanambi76&color=blue)
 
@@ -8,7 +8,7 @@
 
 ## 💻 À propos de moi
 
-Étudiant en DevOps à ASJA Antsirabe, je construis un portfolio de projets pratiques autour de l'automatisation d'infrastructure, du provisioning cloud-like et de la sécurité des systèmes.
+Étudiant en Télécommunication Informatique à ASJA Antsirabe, je construis un portfolio de projets pratiques autour de l'automatisation d'infrastructure, du provisioning cloud-like et de la sécurité des systèmes.
 J'aime scripter, automatiser et comprendre comment les systèmes tiennent ensemble, de la VM jusqu'au pipeline CI/CD.
 
 - 🔭 En ce moment, je travaille sur un **SOC Wazuh** (Docker Compose + Ansible) et un **analyseur de logs intelligent** (Grafana Loki + Promtail + IA).
