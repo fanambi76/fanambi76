@@ -20,35 +20,35 @@ J'aime scripter, automatiser et comprendre comment les systèmes tiennent ensemb
 
 ## 🛠️ Compétences et outils
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kali Linux]
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
-(https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![Docker]
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) 
 
-(https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Ansible]
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 
-(https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform]
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) 
 
-(https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![GitHub Actions]
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) 
 
-(https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Jenkins]
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) 
 
-(https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Bash]
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-(https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Python]
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-(https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Node.js]
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-(https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PostgreSQL]
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 
-(https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Grafana]
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
 
-(https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Wazuh]
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) 
 
-(https://img.shields.io/badge/Wazuh-3AAFD9?style=for-the-badge&logo=wazuh&logoColor=white) ![QEMU/KVM]
+![Wazuh](https://img.shields.io/badge/Wazuh-3AAFD9?style=for-the-badge&logo=wazuh&logoColor=white) 
 
-(https://img.shields.io/badge/QEMU%2FKVM-FF6600?style=for-the-badge&logo=qemu&logoColor=white) ![Vagrant]
+![QEMU/KVM](https://img.shields.io/badge/QEMU%2FKVM-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
 
-(https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
 
 ---
 
@@ -56,7 +56,7 @@ J'aime scripter, automatiser et comprendre comment les systèmes tiennent ensemb
 
 Retrouvez mes dépôts pour les scripts d'automatisation, l'infrastructure as code et les expérimentations DevSecOps :
 
-➡️ [Tous mes dépôts GitHub](https://github.com/fanambinalova?tab=repositories)
+➡️ [Tous mes dépôts GitHub](https://github.com/fanambi76?tab=repositories)
 
 ---
 
@@ -72,5 +72,5 @@ Retrouvez mes dépôts pour les scripts d'automatisation, l'infrastructure as co
 
 ## 📊 Statistiques GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=fanambinalova&show_icons=true&theme=dark)
-![Top langages](https://github-readme-stats.vercel.app/api/top-langs/?username=fanambinalova&layout=compact&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=fanambi76&show_icons=true&theme=dark)
+![Top langages](https://github-readme-stats.vercel.app/api/top-langs/?username=fanambi76&layout=compact&theme=dark)
