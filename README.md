@@ -1,4 +1,4 @@
-# Salut, c'est fanambina ! 👋
+# Salut, c'est fanambi ! 👋
 
 **Étudiant en DevOps | Automatisation & Infrastructure as Code | Sécurité des systèmes**
 
